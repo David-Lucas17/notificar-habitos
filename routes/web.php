@@ -13,3 +13,4 @@ Route::get('/', [App\Http\Controllers\siteController::class, 'index']);
 
 // Login
 Route::get('/login', [LoginController::class, 'index']);
+Route::post('/login', [LoginController::class, 'authenticate']);

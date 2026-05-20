@@ -1,2 +1,1 @@
-# Notificador de habitos
-# notificar-habitos
+# Sistema de acompanhamento de hábitos no dia a dia
